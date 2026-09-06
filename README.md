@@ -9,6 +9,9 @@ I'm a cybersecurity student at DePaul University and I have an associates degree
 
 ## Projects
 
+- Currently working on a Mobile Ad-Hoc Network Radio with PTT functionality
+- Homelab media server with private access for friends and family
+
 <!--
 **TrashSquid/TrashSquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
