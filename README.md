@@ -1,8 +1,8 @@
-## Hello, I'm Angelo
+# Hello, I'm Angelo.
 
-# About Me
+## About Me
 
-# Projects
+## Projects
 
 <!--
 **TrashSquid/TrashSquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
