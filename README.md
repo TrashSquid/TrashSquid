@@ -13,6 +13,7 @@ Currently all repositories on this account are exclusively personal projects.
 
 - Currently working on a Mobile Ad-Hoc Network Radio with PTT functionality
 - Homelab media server with private access for friends and family
+- Once a week I explore GitHub repositories for security vulnerabilities 
 
 <!--
 **TrashSquid/TrashSquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
