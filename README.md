@@ -7,6 +7,8 @@ Welcome to my GitHub Page, you can find my current and old projects here.
 
 I'm a cybersecurity student at DePaul University and I have an associates degree in Computer Information Technology. I enjoy finding security vulnerabilities in my free time and learning more about all things cybersecurity.
 
+Currently all repositories on this account are exclusively personal projects.
+
 ## Projects
 
 - Currently working on a Mobile Ad-Hoc Network Radio with PTT functionality
